@@ -9,8 +9,6 @@
  * Return: NULL if size is zero or if it fails.
  * poinTER
 */
-
-
 char *create_array(unsigned int size, char c)
 {
 char *buffer;
