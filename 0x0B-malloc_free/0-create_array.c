@@ -19,7 +19,7 @@ return (NULL);
 }
 /*Define values with malloc*/
 buffer = (char *) malloc(size * sizeof(c));
-if (bufer == 0)
+if (buffer == 0)
 {
 return (NULL);
 }
