@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
 * free_grid -> removing memory allocation
